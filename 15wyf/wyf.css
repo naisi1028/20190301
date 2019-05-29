@@ -1,0 +1,28 @@
+.video-list {
+    list-style-type: none;
+}
+
+
+.video-item .figure-img img {
+    width: 296px;
+    height: 180px;
+}
+
+img {
+    border: 0;
+    
+a:hover {
+    color: #ff6700;
+    text-decoration: none;
+    outline: 0;
+}
+
+
+
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
